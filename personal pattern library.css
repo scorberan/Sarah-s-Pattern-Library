@@ -1,14 +1,220 @@
 .colour {
-    color: #CCCCFF;
+    color: #A9A9A9;
 
 }
 
+.lavanderbox {
+   color: black;
+   background-color: #E6E6FA;
+   font-size: 10px;
+   display: inline-block;
+   width: 300px;
+    height: 100px;
+  
+}
+.wisteriabox {
+    color: black;
+    background-color: #BDB5D5;
+    font-size: 10px;
+   display: inline-block;
+   width: 300px;
+    height: 100px;
+
+}
+
+.periwinklebox {
+    color: black;
+    background-color:  #CCCCFF; 
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.Lpurplebox {
+    color: black;
+    background-color:  #CF9FFF;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+     
+}
+
+.Lilacbox{
+    width: 300px;
+    height: 100px;
+    background-color:  #AA98A9;    
+    color: black;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.violetbox {
+    color: black;
+    background-color:  #7F00FF;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+     
+}
+
+.medianseagreen-box {
+    color: black;
+    background-color:  #3CB371;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+    
+}
+
+.forestgreen-box {
+    color: black;
+    background-color:  #228B22;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+    
+}
+
+.darkgreen-box {
+    color: black;
+    background-color:  #006400;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+      
+}
+
+.yellowgreen-box {
+    color: black;
+    background-color:  #9ACD32;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+      
+} 
+
+.indigo-box {
+    color: black;
+    background-color: #4B0082 ;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+    
+     
+}
+
+.slateblue-box {
+    color: black;
+    background-color: #6A5ACD;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.cornflowerblue-box {
+    color: black;
+    background-color: #6495ED;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.royalblue-box {
+    color: black;
+    background-color:#4169E1;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.cornsilk {
+    color: black;
+    background-color: #FFF8DC;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;   
+}
+
+.wheatbox {
+    color: black;
+    background-color: #F5DEB3;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;  
+}
+
+.tanbox {
+    color: black;
+    background-color: #D2B48C;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;   
+}
+
+.burlywoodbox {
+    color: black;
+    background-color: #DEB887;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block; 
+}
+
+.darkgraybox {
+    color: black;
+    background-color: #A9A9A9;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;   
+}
+
+.graybox {
+    color: black;
+    background-color: #808080;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;   
+}
+
+.dimgray {
+    color: black;
+    background-color: #696969;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.slategray {
+    color: black;
+    background-color: #708090;
+    width: 300px;
+    height: 100px;
+    font-size: 10px;
+    display: inline-block;   
+}
 .headers-section {
-    color: #CCCCFF ;
+    color: #A9A9A9 ;
 }
 
 .buttons-section {
-    color: #CCCCFF;
+    color: #A9A9A9;
 }
 
 .btn {
