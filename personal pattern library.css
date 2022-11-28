@@ -1,6 +1,7 @@
 .colour {
 
     color: #808080;
+    text-decoration: underline;
 
 }
 
@@ -278,11 +279,13 @@
 .headers-section {
 
     color: #808080 ;
+    text-decoration: underline;
 }
 
 .buttons-section {
 
     color: #808080;
+    text-decoration: underline;
 }
 
 
